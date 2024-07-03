@@ -1,0 +1,23 @@
+﻿@model Usuario
+
+<h2>Detalles del Usuario</h2>
+
+<div>
+    <h4>ID: @Model.id</h4>
+    <hr />
+    <dl class="row">
+
+        <dt class="col-sm-2">Correo:</dt>
+        <dd class="col-sm-10">@Model.rol</dd>
+
+        <dt class="col-sm-2">Clave:</dt>
+        <dd class="col-sm-10">@Model.clave</dd>
+
+        <!-- Agrega más detalles según las propiedades de tu modelo Usuario -->
+       
+    </dl>
+</div>
+
+<div>
+    <a asp-action="List">Volver al Listado</a>
+</div>

@@ -1,0 +1,25 @@
+﻿@model Usuario;
+
+<h2>Detalles del Usuario</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.usuario)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.usuario)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.rol)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.rol)
+        </dd>
+    </dl>
+</div>
+
+<p>
+    <a asp-action="Edit" asp-route-id="@Model.id">Editar</a> |
+    <a asp-action="List">Volver a la Lista</a>
+</p>

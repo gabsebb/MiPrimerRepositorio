@@ -1,0 +1,36 @@
+﻿@model Cliente
+<html>
+<head>
+    <title>Eliminar</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body style="background-color:darkolivegreen">
+    <h2>Eliminar</h2>
+
+    <div>
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.nombre)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.nombre)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.apellido)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.apellido)
+            </dd>
+        </dl>
+    </div>
+
+    <p>¿Está seguro de que desea eliminar este cliente?</p>
+
+    <form asp-action="DeleteS" asp-route-id="@Model.id" method="post">
+        <input type="submit" value="Eliminar" class="btn btn-danger" />
+        <a asp-action="List" class="btn btn-secondary">Cancelar</a>
+    </form>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

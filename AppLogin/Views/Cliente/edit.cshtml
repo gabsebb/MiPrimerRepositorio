@@ -1,0 +1,67 @@
+﻿@model Cliente;
+<html>
+<head>
+    <title>Editar Usuario</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+
+<body style="background-color:darkolivegreen">
+    <h2 class="text-center">Editar Usuario</h2>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-controller="Cliente" asp-action="edit" method="post">
+                <input type="hidden" asp-for="id" />
+
+                <div class="form-group">
+                    <label asp-for="nombre" class="control-label"></label>
+                    <input required asp-for="nombre" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="apellido" class="control-label"></label>
+                    <input required asp-for="apellido" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="cedula" class="control-label"></label>
+                    <input required asp-for="cedula" class="form-control" type="form-control"/>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="direccion" class="control-label"></label>
+                    <input required asp-for="direccion" class="form-control" type="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="telefono" class="control-label"></label>
+                    <input required asp-for="telefono" class="form-control" type="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <input type="hidden" asp-for="fechaModificacion" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="estado" class="control-label">Estado:</label><br />
+                    <input asp-for="estado" type="checkbox" value="true" /> Activo
+                </div>
+
+                <br />
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                    <a asp-action="List" class="btn btn-secondary">Cancelar</a>
+                </div>
+                @if (ViewData["Mensaje"] != null)
+                {
+                    <div class="alert alert-danger" role="alert">
+                        @ViewData["Mensaje"]
+                    </div>
+                }
+            </form>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

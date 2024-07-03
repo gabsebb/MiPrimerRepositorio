@@ -1,0 +1,53 @@
+﻿@model AppLogin.ViewModels.UsuarioVM;
+@{
+    Layout = null;
+}
+<html>
+    <head>
+        <title>Crear nuevo Usuario</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    </head>
+    <body>
+        <div class="row mt-5 justify-content-center">
+            <div class="col-sm-4">
+                <div class="card">
+                    <div class="card-header">
+                        Crear usuario nuevo
+                    </div>
+                    <div class="card-body">
+                    <form asp-controller="Acceso" asp-action="crearUsuarios" method="post">
+                            <input class="form-control mb-3" type="text" placeholder="Nombre" required asp-for="usuario"/>
+                            <select class="form-control mb-3" asp-for="rol" required>
+                                <option value="">Selecciona un rol</option>
+                                <option value="admin">Administrador</option>
+                                <option value="cajero">Cajero</option>
+                            </select>
+                            <input class="form-control mb-3" type="password" placeholder="Contraseña" required asp-for="clave"/>
+                            <input class="form-control mb-3" type="password" placeholder="Confirmar Contraseña" required asp-for="ConfirmarClave" />
+                            <div class="d-grid gap-2 mb-3">
+                            <button class="btn btn-primary" type="submit">Crear</button>
+                            <button class="btn btn-secondary">@Html.ActionLink("Cancelar", "List", "Usuario", null, new { @class = "text-white" })</button>
+
+                            </div>
+                        @if (ViewData["Mensaje"] !=null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @ViewData["Mensaje"]
+                            </div>
+                        }
+                    </form>
+                    
+                    
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>

@@ -1,0 +1,1388 @@
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+C:\Users\ALEXIS\Desktop\AppLogin\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+D:\ITQ\S4\Lenguajes de programacion 3\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+C:\Users\ITQ\Desktop\deber mañana\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+C:\Users\ITQ\Desktop\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+C:\Users\Pasantes2024\Desktop\ProyectoClase\Proyecto\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+D:\ITQ\S4\Lenguajes de programacion 3\AppLogin-20240625T230502Z-001\AppLogin\AppLogin\bin\Debug\net8.0\wwwroot\images\images.jpg
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\wwwroot\images\images.jpg
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+C:\Users\ITQ\Desktop\AppLogin-20240626T152346Z-001\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\wwwroot\images\images.jpg
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+C:\Users\Pasantes2024\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\wwwroot\images\images.jpg
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\appsettings.json
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.staticwebassets.runtime.json
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.exe
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.deps.json
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.runtimeconfig.json
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\AppLogin.pdb
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.AssemblyReference.cache
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfoInputs.cache
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.AssemblyInfo.cs
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.CoreCompileInputs.cache
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cache
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.RazorAssemblyInfo.cs
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.AppLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.build.AppLogin.props
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppLogin.props
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppLogin.props
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\bundle\AppLogin.styles.css
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\scopedcss\projectbundle\AppLogin.bundle.scp.css
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.csproj.Up2Date
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\refint\AppLogin.dll
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.pdb
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\AppLogin.genruntimeconfig.cache
+C:\Users\ITQ\Desktop\AppLogin\AppLogin\obj\Debug\net8.0\ref\AppLogin.dll

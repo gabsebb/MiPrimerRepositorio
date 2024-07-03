@@ -1,0 +1,61 @@
+﻿@model AppLogin.ViewModels.ProductoVM
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <title>Crear nuevo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="row mt-5 justify-content-center">
+        <div class="col-sm-4">
+            <div class="card">
+                <div class="card-header">
+                    Crear Nuevo
+                </div>
+                <div class="card-body">
+                    <form asp-controller="Producto" asp-action="crear" method="post">
+
+                        <div class="form-group">
+                            <input class="form-control mb-3" type="text" placeholder="Nombre" required asp-for="Nombre" />
+                        </div>
+
+                        <div class="form-group">
+                            <input class="form-control mb-3" type="text" placeholder="Iva" required asp-for="iva" />
+                        </div>
+
+                        <div class="form-group">
+                            <input class="form-control mb-3" type="text" placeholder="Codigo de Barras" required asp-for="codigo_barras" />
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.IdTipoSeleccionado, "Tipo de Producto")
+                            @Html.DropDownListFor(model => model.IdTipoSeleccionado, Model.TiposProductos, "- Seleccione -", new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.IdTipoSeleccionado, "", new { @class = "text-danger" })
+                        </div>
+                        
+                        <div class="d-grid gap-2 mb-3">
+                            <button class="btn btn-primary" type="submit">Crear</button>
+                            <button class="btn btn-secondary">@Html.ActionLink("Cancelar", "List", "Producto", null, new { @class = "text-white" })</button>
+
+                        </div>
+                        @if (ViewData["Mensaje"] != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @ViewData["Mensaje"]
+                            </div>
+                        }
+                    </form>
+
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

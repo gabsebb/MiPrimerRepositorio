@@ -1,0 +1,137 @@
+html {
+  font-size: 10px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: darkolivegreen; 
+    color: darkred;
+    font-family: Arial, sans-serif;
+    margin: 0; 
+    padding: 0; 
+}
+
+    .table th,
+    .table td {
+        padding: 0.75rem;
+        vertical-align: top;
+        border-top: 1px solid #dee2e6;
+    }
+
+    .table thead th {
+        vertical-align: bottom;
+        border-bottom: 2px solid #dee2e6;
+    }
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: darkslategrey; /* Fila alternada con fondo oscuro */
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: whitesmoke;
+    background-color: darkslategray; /* Fondo oscuro para la tabla */
+    border-color: #454d55;
+    border-collapse: collapse;
+}
+
+    .table th,
+    .table td,
+    .table thead th {
+        border-color: #454d55;
+        color:white;
+    }
+
+.btn {
+    color: #fff;
+    background-color: #1da1f2; /* Color de botón azul */
+    border-color: #1da1f2; /* Borde del botón */
+}
+
+    .btn:hover {
+        background-color: #0d91e5; /* Color de botón azul más oscuro al pasar el mouse */
+        border-color: #0d91e5;
+    }
+
+.btn-danger {
+    background-color: #dc3545; /* Color de botón rojo */
+    border-color: #dc3545; /* Borde del botón */
+}
+
+    .btn-danger:hover {
+        background-color: #c82333; /* Color de botón rojo más oscuro al pasar el mouse */
+        border-color: #c82333;
+    }
+header {
+    background-color: darkolivegreen; /* Azul oscuro claro */
+    padding: 10px 0; /* Espaciado interno */
+    text-align: center; /* Alineación centrada */
+    color: #dc3545; /* Color rojo para el texto del header */
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: darkolivegreen; /* Azul oscuro claro */
+    padding: 10px 0; /* Espaciado interno */
+    text-align: center; /* Alineación centrada */
+    color: darkred;
+}
+.container {
+    height: 100%;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.navbar-nav .nav-link {
+    color: beige;
+    font-size: 15px;
+}
+
+    .navbar-nav .nav-link:hover {
+        color: red;
+    }
+
+.navbar-brand {
+    color: mintcream;
+    font-size: 20px;
+}
+
+.btn-custom {
+    background-color: #28a745; /* Color de fondo verde */
+    color: #fff; /* Color del texto blanco */
+    border: none; /* Sin borde */
+    padding: 0.5rem 1rem; /* Padding interno */
+    font-size: 1rem; /* Tamaño de fuente */
+    cursor: pointer; /* Cambia el cursor a una mano al pasar sobre el botón */
+    /* Otros estilos según tus preferencias */
+}
+
+    .btn-custom:hover {
+        background-color: #218838; /* Color de fondo verde oscuro al pasar el mouse */
+        color: #fff; /* Color del texto blanco */
+        text-decoration: none; /* Sin subrayado al pasar el mouse */
+    }
+
+.centered-text {
+    text-align: center;
+}
+
+/* Clase para altura de la vista */
+

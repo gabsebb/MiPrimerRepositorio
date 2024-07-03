@@ -1,0 +1,30 @@
+﻿@model Usuario;
+
+<h2>Crear Nuevo Usuario</h2>
+
+<form asp-controller="Usuario" asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="usuario" class="control-label"></label>
+        <input asp-for="usuario" class="form-control" />
+        <span asp-validation-for="usuario" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="rol" class="control-label"></label>
+        <input asp-for="rol" class="form-control" />
+        <span asp-validation-for="rol" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="clave" class="control-label"></label>
+        <input asp-for="clave" class="form-control" />
+        <span asp-validation-for="clave" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-primary" type="submit">Crear</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>

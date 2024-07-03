@@ -1,0 +1,14 @@
+﻿@model AppLogin.ViewModels.ProductoVM
+
+<h2>Eliminar Producto</h2>
+
+<div>
+    <p>¿Está seguro que desea eliminar el producto <strong>@Model.Nombre</strong>?</p>
+
+    <form asp-action="DeleteS" asp-route-id="@Model.id" method="post">
+        @Html.AntiForgeryToken()
+
+        <input type="submit" value="Eliminar" class="btn btn-danger" />
+        <a asp-action="List" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

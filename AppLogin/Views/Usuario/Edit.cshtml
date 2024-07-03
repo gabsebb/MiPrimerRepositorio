@@ -1,0 +1,67 @@
+﻿@model AppLogin.ViewModels.UsuarioVM;
+<html>
+<head>
+    <title>Editar Usuario</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+
+<body style="background-color:darkolivegreen">
+<h2 class="text-center">Editar Usuario</h2>
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-controller="Usuario" asp-action="Edit" method="post">
+            <input type="hidden" asp-for="id" />
+
+            <div class="form-group">
+                <label asp-for="usuario" class="control-label"></label>
+                <input required asp-for="usuario" class="form-control" />
+            </div>
+
+                <div class="form-group">
+                    <label asp-for="rol" class="control-label"></label>
+                    <select required asp-for="rol" class="form-control">
+                        <option value="">Selecciona un rol</option>
+                        <option value="admin">Administrador</option>
+                        <option value="cajero">Usuario</option>
+                    </select>
+                    <span asp-validation-for="rol" class="text-danger"></span>
+                </div>
+
+            <div class="form-group">
+                <label asp-for="clave" class="control-label"></label>
+                <input required asp-for="clave" class="form-control" type="password" value="" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ConfirmarClave" class="control-label"></label>
+                    <input required asp-for="ConfirmarClave" class="form-control" type="password" />
+            </div>
+
+            <div class="form-group">
+                <input type="hidden" asp-for="fechaModificacion" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="estado" class="control-label">Estado:</label><br />
+                <input asp-for="estado" type="checkbox" value="true" /> Activo
+            </div>
+
+            <br />
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Guardar</button>
+                <a asp-action="List" class="btn btn-secondary">Cancelar</a>
+            </div>
+                @if (ViewData["Mensaje"] != null)
+                {
+                    <div class="alert alert-danger" role="alert">
+                        @ViewData["Mensaje"]
+                    </div>
+                }
+        </form>
+    </div>
+</div>
+   
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

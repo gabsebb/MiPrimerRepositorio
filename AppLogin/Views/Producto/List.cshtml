@@ -1,0 +1,56 @@
+﻿@model List<Producto>
+
+<html>
+<head>
+    <title>Productos</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+
+<body style="background-color:darkolivegreen;">
+    <title>Lista de Productos</title>
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <button class="btn btn-primary btn-sm">
+            @Html.ActionLink("Crear Nuevo", "crear", "Producto", null, new { @class = "text-white" })
+        </button>
+    </div>
+    @if (Model.Count > 0)
+    {
+        <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nombre Producto</th>
+                    <th>iva</th>
+                    <th>Codigo de barras</th>
+                    <th>Tipo de producto</th>
+                    <th>Descripcion de producto</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var producto in Model)
+                {
+                    <tr>
+                        <td>@producto.nombre</td>
+                        <td>@producto.iva</td>
+                        <td>@producto.codigo_barras</td>
+                        <td>@producto.tipo_producto.nombre_tipo</td>
+                        <td>@producto.tipo_producto.descripcion</td>
+                            <td>
+                                @Html.ActionLink("Editar", "edit", new { id = producto.id }, new { @class = "btn btn-primary btn-sm" })
+                                @Html.ActionLink("Eliminar", "Delete", new { id = producto.id }, new { @class = "btn btn-danger btn-sm", onclick = "return confirm('¿Está seguro que desea eliminar este usuario?');" })
+                            </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        </div>
+    }
+    else
+    {
+        <p>No hay usuarios disponibles.</p>
+    }
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

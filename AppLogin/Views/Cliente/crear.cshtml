@@ -1,0 +1,47 @@
+﻿@model Cliente
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <title>Crear nuevo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="row mt-5 justify-content-center">
+        <div class="col-sm-4">
+            <div class="card">
+                <div class="card-header">
+                    Crear Nuevo
+                </div>
+                <div class="card-body">
+                    <form asp-controller="Cliente" asp-action="crear" method="post">
+                        <input class="form-control mb-3" type="text" placeholder="Nombre" required asp-for="nombre" />
+                        <input class="form-control mb-3" type="text" placeholder="Apellido" required asp-for="apellido" />
+                        <input class="form-control mb-3" type="text" placeholder="Cedula" required asp-for="cedula" />
+                        <input class="form-control mb-3" type="text" placeholder="Direccion" required asp-for="direccion" />
+                        <input class="form-control mb-3" type="text" placeholder="Telefono" required asp-for="telefono" />
+                        <div class="d-grid gap-2 mb-3">
+                            <button class="btn btn-primary" type="submit">Crear</button>
+                            <button class="btn btn-secondary">@Html.ActionLink("Cancelar", "List", "Usuario", null, new { @class = "text-white" })</button>
+
+                        </div>
+                        @if (ViewData["Mensaje"] != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @ViewData["Mensaje"]
+                            </div>
+                        }
+                    </form>
+
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
